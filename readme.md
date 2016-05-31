@@ -13,7 +13,7 @@ The original data comes from http://archive.ics.uci.edu/ml/datasets/Human+Activi
 
 #### The Repository includes the following files:
 
-1) run_analyis.R
+1) **run_analyis.R**
 This is the R script to run to do the analysis and cleaning for this project.
 Note: packages plyr is used and can be downloaded from CRAN
 
@@ -21,10 +21,10 @@ Note: packages plyr is used and can be downloaded from CRAN
 - merges the data as required and gives desciptive labels and column names
 - creates a new tidy data frame called tidy_data
 
-2) CodeBook.md
+2) **CodeBook.md**
 This gives the details on the data used and how it has been transformed
 
-3) tidy_data.CSV
+3) **tidy_data.csv**
 This is the csv format file for the tidy data created by the run_analysis.R script.
 It can be viewed by just opening it on github or you can also load it into R using read.csv.
 
